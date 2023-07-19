@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba de Modulo 2 del PrepCourse de Henry
+Este repositorio es una prueba de como crear un repositorio remoto y como clonarlo a mi escritorio local
